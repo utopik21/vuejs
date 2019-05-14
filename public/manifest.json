@@ -1,6 +1,6 @@
 {
-  "name": "bouton_project",
-  "short_name": "bouton_project",
+  "name": "vuejs",
+  "short_name": "vuejs",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
